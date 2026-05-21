@@ -1,0 +1,8 @@
+ID,Product,Status
+1,Scanner,OK
+2,Battery,ERROR
+
+3,Cable,OK
+4,Broken_Monitor,ERROR
+5,MissingStatus_FormatError
+6,Mouse,OK
